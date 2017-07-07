@@ -4,36 +4,264 @@
 		"selected_items":
 		[
 			[
-				"font-",
-				"font-weight"
+				"background-",
+				"background-color"
 			],
 			[
-				"ba",
-				"background-size"
+				"text",
+				"text-decoration"
 			],
 			[
-				"wi",
-				"width"
+				"border",
+				"border-box"
 			],
 			[
 				"backg",
 				"background-image"
 			],
 			[
-				"di",
-				"display"
+				"bac",
+				"background-color"
 			],
 			[
-				"pc",
-				"pc_img_serviceSec02Img01.jpg"
+				"blo",
+				"block"
 			],
 			[
-				"p",
-				"pc_img_serviceSec02Bg01.png\tw:960 h:1554"
+				"bo",
+				"border"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bakc",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"backgroudn",
+				"background-color"
+			],
+			[
+				"re",
+				"regularSlide"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"backgrou",
+				"background-position"
 			],
 			[
 				"font",
 				"font-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"backgroui",
+				"background-image"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"c",
+				"campaign_2017summer/"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"e",
+				"footerIconTargetBlank.png\tw:10 h:10"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"l",
+				"linkBannerBoxHeader01.png\tw:187 h:5"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"la",
+				"latestJobHeaderBg01.png\tw:149 h:5"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"serc",
+				"searchBoxTabHeader01.png\tw:180 h:26"
+			],
+			[
+				"q",
+				"quirckSearchInputBoxBg01.png\tw:24 h:30"
+			],
+			[
+				"f",
+				"footer_ind_01.png\tw:13 h:14"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"d",
+				"searchBoxTabBg01Red.png\tw:6 h:6"
+			],
+			[
+				"n",
+				"inherit"
+			],
+			[
+				"i",
+				"fixed"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ted",
+				"text-decoration"
+			],
+			[
+				"bi",
+				"background-image"
+			],
+			[
+				"sp",
+				"sp_img_searchBoxTabLiBg01_down.png\tw:24 h:24"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"pc",
+				"pc_img_gMenuIcn_comingSoon.png\tw:124 h:44"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"p",
+				"pc_img_serviceSec02Bg01.png\tw:960 h:1554"
 			],
 			[
 				"fon",
@@ -44,40 +272,8 @@
 				"table\tTag"
 			],
 			[
-				"a",
-				"a\t<a>"
-			],
-			[
-				"tex",
-				"text-align"
-			],
-			[
-				"background",
-				"background-color"
-			],
-			[
-				"bo",
-				"border"
-			],
-			[
-				"text",
-				"text-align"
-			],
-			[
 				"none",
 				"none"
-			],
-			[
-				"in",
-				"inline-block"
-			],
-			[
-				"i",
-				"inherit"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"b",
@@ -88,24 +284,12 @@
 				"pc_img_footer_ind_01.png\tw:13 h:14"
 			],
 			[
-				"background-",
-				"background-image"
-			],
-			[
 				"border-",
 				"border-radius"
 			],
 			[
-				"margin",
-				"margin-right"
-			],
-			[
 				"box-",
 				"box-sizing"
-			],
-			[
-				"backgr",
-				"background-image"
 			],
 			[
 				"o",
@@ -124,7 +308,6 @@
 			"settings":
 			{
 				"buffer_size": 614,
-				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -137,9 +320,53 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "",
+		"last_filter": "ena",
 		"selected_items":
 		[
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -153,11 +380,11 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 379.0
+		"width": 392.0
 	},
 	"console":
 	{
-		"height": 126.0,
+		"height": 88.0,
 		"history":
 		[
 			"japanize",
@@ -175,150 +402,172 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/react/react_doc/test01",
-		"/C/xampp/htdocs/react/react_doc/test01/dest",
-		"/C/xampp/htdocs/react/react_doc/test01/src"
+		"/C/xampp/htdocs/react/react_doc/react_test/test01"
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/react/react_doc/test01/src/tutorial01.jsx",
-		"/C/Users/asono/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/xampp/htdocs/react/react_doc/test01/dest/tutorial01.js",
-		"/C/xampp/htdocs/tp/spb-job/sp/css/addsp_style.css",
-		"/C/xampp/htdocs/tp/spb-job/sp/_scss/addsp_style.scss",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/tp_corpWebregist.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/tp_corpWebregistDetail.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/tp_corpFullImg.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/template/mod_headerNav.php",
-		"/C/xampp/htdocs/tp/spb-job/template/footer.php",
-		"/C/xampp/htdocs/tp/spb-job/template/mod_headerNav.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpHakenPage.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist_confirm/template/tp_corpWebregistConfirmDetail.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist_thanks/template/tp_corpWebregistThanks.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist_confirm/template/tp_corpWebregistConfirm.php",
-		"/C/xampp/htdocs/tp/spb-job/webregist_thanks/template/tp_corpWebregistThanks.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist_confirm/template/mod_title.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist_thanks/template/mod_title.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/mod_title.php",
-		"/C/xampp/htdocs/tp/spb-job/_scss/addpc_style.scss",
-		"/C/xampp/htdocs/tp/spb-job/webregist/template/tp_corpWebregist.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/template/footer.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpServicePage.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpWelfarePage.php",
-		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpServicePage.php",
-		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpWelfarePage.php",
-		"/C/xampp/htdocs/tp/spb-job/css/addpc_style.css",
-		"/C/xampp/htdocs/tp/spb-job/js/tenichi.plus.script.js",
-		"/C/xampp/htdocs/tp/spb-job/sp/js/tenichi.plus.script.js",
-		"/C/xampp/htdocs/tp/spb-job/sp/top/template/tp_corpLinkBannerBtnBox01.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/config/custom_config/top/latestJobInfo.php",
-		"/C/xampp/htdocs/tp/spb-job/css/tenichi.plus.css",
-		"/C/xampp/htdocs/tp/spb-job/webregist_confirm/template/tp_corpWebregistConfirmDetail.php",
-		"/C/xampp/htdocs/tp/spb-job/webregist_confirm/template/tp_corpWebregistConfirm.php",
-		"/C/xampp/htdocs/tp/spb-job/webregist/template/tp_corpWebregistDetail.php",
-		"/C/xampp/htdocs/tp/spb-job/webregist/template/tp_corpFullImg.php",
-		"/C/xampp/htdocs/tp/spb-job/webregist/template/mod_title.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpOfficePage.php",
-		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpOfficePage.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpPolicyPage.php",
-		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpPolicyPage.php",
-		"/C/xampp/htdocs/tp/delstuff/content/template/tp_corpStartPage.php",
-		"/C/xampp/htdocs/tp/1049/content/template/tp_corpWorkingPage.php",
-		"/C/xampp/htdocs/tp/spb-job/search/template/tp_corpSearch.php",
-		"/C/xampp/htdocs/tp/spb-job/top/template/tp_corpImgSlider.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/config.rb",
-		"/C/xampp/htdocs/tp/spb-job/sp/apply_thanks/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/top/template/tp_corpImgSlider.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/apply/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/spb-job/sp/apply_confirm/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/1049/sp/_scss/addsp_style.scss",
-		"/C/xampp/htdocs/tp/1049/template/header.php",
-		"/C/xampp/htdocs/tp/1049/_scss/addpc_style.scss",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/content/template/tp_corpWorkingPage.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/css/addsp_style.css",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/_scss/addsp_style.scss",
-		"/C/Users/asono/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/js/tenichi.plus.sp.js",
-		"/C/xampp/htdocs/tp/ichiyamamart/js/tenichi.plus.script.js",
-		"/C/xampp/htdocs/tp/ichiyamamart/_scss/addpc_style.scss",
-		"/C/xampp/htdocs/tp/ichiyamamart/content/template/tp_corpWorkingPage.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/css/addpc_style.css",
-		"/C/xampp/htdocs/tp/ichiyamamart/config/custom_config/search/latestJobInfo.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/apply/template/tp_corpApplyModJob.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/apply_thanks/template/tp_corpApplyThanks.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/apply_confirm/template/tp_corpApplyConfirm.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/apply/template/tp_corpApply.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/apply/template/tp_corpApplyModJob.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/css/tenichi.plus.css",
-		"/C/xampp/htdocs/tp/delstuff/_scss/addpc_style.scss",
-		"/C/xampp/htdocs/tp/ichiyamamart/template/header.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/header.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/template/footer.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/mod_headerNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/footer.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/search_select/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpLatestJob01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/_scss/addpc_style.scss",
-		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/search/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/job/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/search/template/tp_corpSearchSp.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/job/template/tp_corpJobModJob02.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/job/template/tp_corpJob.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpTop.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpLinkBannerBtnBox01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpRecommendJob01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpSearchBoxTab01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/_footer.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpImgSlider.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/sp/config.rb",
-		"/C/xampp/htdocs/tp/ichiyamamart/job/template/tp_corpJobModJob02.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/job/template/tp_corpJob.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/search/template/tp_corpSearch.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpSearchBoxTab01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpTop.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/search/template/tp_corpSearchBoxTab01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpRecommendJob01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpLatestJob01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/search/template/_tp_corpLatestJob01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpLinkBannerBtnBox01.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpImgSlider.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/template/mod_headerNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/job/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/search/template/tp_corpHeaderNav.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/config.rb",
-		"/C/xampp/htdocs/tp/ichiyamamart/template/mod_wrapStart.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/template/mod_wrapFullStart.php",
-		"/C/xampp/htdocs/tp/ichiyamamart/css/addpcBase_style.css",
-		"/C/xampp/htdocs/tp/test_proj/_scss/test.scss",
-		"/C/xampp/htdocs/tp/test_proj/_scss/test.css",
-		"/C/xampp/htdocs/tp/ichiyamamart/css/test.css",
-		"/C/xampp/htdocs/tp/ichiyamamart/_scss/test.scss",
-		"/C/xampp/htdocs/tp/ichiyamamart/compile_production.bat",
-		"/C/xampp/htdocs/tp/ichiyamamart/css/add_pc_style_00.css",
-		"/C/xampp/htdocs/tp/ichiyamamart/_scss/config.rb",
-		"/C/xampp/htdocs/tp/ichiyamamart/css/add_pc_style.css",
-		"/C/xampp/htdocs/tp/ichiyamamart/css/add_pc_style_contentsPage.css",
-		"/C/xampp/htdocs/tp/docomo-cs-tokai/sp/content/template/tp_corpOfficePage.php",
-		"/C/xampp/htdocs/tp/docomo-cs-tokai/top/template/tp_corpImgSlider.php",
-		"/C/xampp/htdocs/tp/docomo-cs-tokai/sp/top/template/tp_corpSearchLocationBox01.php",
-		"/C/xampp/htdocs/tp/docomo-cs-tokai/sp/css/addsp_style.css",
-		"/C/xampp/htdocs/tp/docomo-cs-tokai/css/add_style.css",
-		"/C/xampp/htdocs/tp/docomo-cs-tokai/search/template/tp_corpSearchBoxTab01.php",
-		"/C/xampp/htdocs/tp/docomo-cs-tokai/top/template/tp_corpSearchLocationBox01.php",
-		"/C/xampp/htdocs/tp/wowcom/css/add_pc_style.css",
-		"/C/xampp/htdocs/tp/wowcom/sp/css/add_sp_style.css"
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_bxSlider.scss",
+		"/C/Users/asono/Creative Cloud Files/書類/テンリク関係/SCSSの内容別パーシャルリスト",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_variablePC.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_placeHolderPC.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/addsp_style.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_jobListArea_search.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_bxSlider.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_header.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_jobListArea_job.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_jobEqArea.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_commonStyles.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_placeHolderSP.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_variableSP.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_jobListArea.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_jobListArea_i.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_jobListArea_i.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_linkBBBox01.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_footer_nomalSP.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/js/tenichi.plus.script.js",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/top/template/tp_corpLinkBBBox01.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/template/footer.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_latestJob_i.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_footer.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_pageTop.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/top/template/tp_corpLinkBBBox01.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/top/template/tp_corpSearchBoxTab01.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/top/template/tp_corpSearchLocationBox01.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_searchBoxTab01_boxBodyText.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_quickSearch_1BoxSP.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_latestJob01.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/top/template/tp_corpTop.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_quickSearch_1BoxSP - コピー.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/top/template/tp_corpImgSlider.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/_scss/_searchBoxTab01.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_jobEqArea.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_headerNavText.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_quickSearch_searchBox.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/template/footer.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/js/tenichi.plus.script.js",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/template/header.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_pageTop.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_footer_nomal.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/top/template/tp_corpTop.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_linkBBBox01.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/config/corp_config.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_footer.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_latestJob01.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_searchBoxTab04.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/top/template/tp_corpSearchBoxTab04.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/top/template/tp_corpImgSlider.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_recommendJob01.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/_scss/_quickSearch_mvBottom.scss",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/template/header_noindex.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/template/header_noindex.php",
+		"/C/xampp/htdocs/tp/hotelhigashinihon/sp/template/header.php",
+		"/C/xampp/htdocs/tp/panttone/_scss/_placeHolderPC.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_placeHolderSP.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_variableSP.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/template/footer.php",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/addsp_style.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_searchBoxTab01.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_searchBoxTab01_boxBodyText.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_variablePC.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_footer_3col.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_jobEqArea.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_apply.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/apply/template/tp_corpApplyModJob.php",
+		"/C/xampp/htdocs/tp/panttone/sp/top/template/tp_corpLinkBBBox01.php",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_header.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/top/template/tp_corpSearchBoxTab01.php",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_latestJob01.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_footer.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_linkBBBox01.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_jobListArea_i.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_jobListArea_search.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_jobListArea_search_select.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/js/tenichi.plus.script.js",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_recommendJob01.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_pageTop.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/template/header.php",
+		"/C/xampp/htdocs/tp/panttone/_scss/_pageTop.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/template/bk_footer.php",
+		"/C/xampp/htdocs/tp/panttone/_scss/_recommendJob01.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_searchBoxTab04_boxmapNomal.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_latestJob01.scss",
+		"/C/xampp/htdocs/tp/panttone/sp/top/template/tp_corpTop.php",
+		"/C/xampp/htdocs/tp/panttone/sp/_scss/_bxSlider.scss",
+		"/C/xampp/htdocs/tp/panttone/top/template/tp_corpTop.php",
+		"/C/xampp/htdocs/tp/panttone/js/tenichi.plus.script.js",
+		"/C/xampp/htdocs/tp/panttone/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/panttone/_scss/_jobListArea.scss",
+		"/C/xampp/htdocs/tp/panttone/apply/template/tp_corpApplyModJob.php",
+		"/C/xampp/htdocs/tp/panttone/_scss/_apply.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_jobEqArea.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_footer_3col.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_searchBoxTab04.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_jobListArea_i.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_commonStyles.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_footer.scss",
+		"/C/xampp/htdocs/tp/panttone/template/footer.php",
+		"/C/xampp/htdocs/tp/panttone/_scss/_linkBBBox01.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_headerNavText.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_footer_nomal.scss",
+		"/C/xampp/htdocs/tp/panttone/_scss/_headerNavIcon.scss",
+		"/C/xampp/htdocs/tp/panttone/top/template/tp_corpLinkBBBox01.php",
+		"/C/xampp/htdocs/tp/panttone/_scss/_bxSlider.scss",
+		"/C/xampp/htdocs/tp/panttone/top/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/azuminofood/sp/_scss/addsp_style.scss",
+		"/C/xampp/htdocs/tp/azuminofood/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/azuminofood/_scss/_placeHolderPC.scss",
+		"/C/xampp/htdocs/tp/azuminofood/_scss/_variablePC.scss",
+		"/C/xampp/htdocs/tp/azuminofood/sp/_scss/_variableSP.scss",
+		"/C/xampp/htdocs/tp/azuminofood/sp/_scss/_latestJob01.scss",
+		"/C/xampp/htdocs/tp/azuminofood/sp/job/template/tp_corpJob.php",
+		"/C/xampp/htdocs/tp/azuminofood/sp/search/template/tp_corpLatestJob01.php",
+		"/C/xampp/htdocs/tp/azuminofood/sp/top/template/tp_corpLatestJob01.php",
+		"/C/xampp/htdocs/tp/azuminofood/sp/search/template/tp_corpSearchSp.php",
+		"/C/xampp/htdocs/tp/azuminofood/sp/_scss/_linkBBBox01.scss",
+		"/C/xampp/htdocs/tp/azuminofood/sp/_scss/_placeHolderSP.scss",
+		"/C/xampp/htdocs/tp/azuminofood/sp/_scss/_linkBBBox02.scss",
+		"/C/xampp/htdocs/tp/azuminofood/sp/job/template/tp_corpLatestJob01.php",
+		"/C/xampp/htdocs/tp/azuminofood/sp/top/template/tp_corpLinkBBBox02.php",
+		"/C/xampp/htdocs/tp/azuminofood/sp/template/footer.php"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
+			"C:\\xampp\\htdocs\\tp\\hotelhigashinihon\\_scss",
+			"C:\\xampp\\htdocs\\tp\\azuminofood\\_scss",
+			"C:\\xampp\\htdocs\\tp\\srs-meito\\_scss",
+			"C:\\xampp\\htdocs\\sp\\",
+			"C:\\xampp\\htdocs\\sp\\campaign_2017summer",
+			"C:\\xampp\\htdocs\\tp\\e-earth\\sp",
+			"C:\\xampp\\htdocs\\tp\\kuribara\\sp",
+			"C:\\xampp\\htdocs\\tp\\kuribara",
+			"C:\\xampp\\htdocs\\tp\\active-japan\\sp",
+			"C:\\xampp\\htdocs\\tp\\fulcrum\\",
+			"C:\\xampp\\htdocs\\tp\\fulcrum\\sp\\",
+			"C:\\xampp\\htdocs\\tp\\fulcrum",
+			"C:\\xampp\\htdocs\\tp\\trattoriaforza",
+			"<current file>",
+			"C:\\xampp\\htdocs\\tp\\ykco\\",
+			"C:\\xampp\\htdocs\\tp\\jhn\\sp\\",
+			"C:\\xampp\\htdocs\\tp\\jhn\\",
+			"C:\\xampp\\htdocs\\tp\\jhn\\sp\\",
+			"C:\\xampp\\htdocs\\tp\\jhn\\sp\\search",
+			"C:\\xampp\\htdocs\\tp\\jhn\\sp\\",
+			"C:\\xampp\\htdocs\\tp\\jhn\\",
+			"C:\\xampp\\htdocs\\tp\\jhn\\search",
+			"C:\\xampp\\htdocs\\tp\\jhn",
+			"<open folders>",
 			"C:\\xampp\\htdocs\\tp\\spb-job\\css",
 			"<open folders>",
 			"C:\\xampp\\htdocs\\tp\\ichiyamamart\\sp",
@@ -334,134 +583,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"hr_webregist",
-			"44",
-			"input3",
-			"clearfix",
-			"dd",
-			"radio_first",
-			"th_bikou",
-			"pc_img_hakenSec03Point03Bg.png",
-			"dec",
-			"width: 960px",
-			"#jobListArea",
-			"customheader2slide",
-			"welfare",
-			"Welfare",
-			"welfare",
-			"left: 530px;",
-			"defInnerW",
-			"W100per",
-			"defInnerW",
-			"W100per",
-			"W960pxMA",
-			"pink",
-			"HeaderText",
-			"sec03Point01HeaderBox",
-			".sec03Point01HeaderBox",
-			".sec03Point02HeaderBox",
-			"sec03Point01HeaderBox",
-			".sec03Point01ImgBox",
-			"assortColor",
-			"318px",
-			"jobone",
-			"horizontalTabBody",
-			"#jobListArea",
-			".searchSpTitle",
-			"sp_LRMrgn1px",
-			"*/?>",
-			"<?php /*",
-			"<?php /*</a>",
-			"<?php /*",
-			"last",
-			"bx-w",
-			"bx",
-			"wrap_full_ImgSlider",
-			"dec1",
-			"regist_group_btns",
-			"fullWidth_area",
-			"fullWidth_area mb40",
-			"530px",
-			"140px",
-			"welfarePageH4Color",
-			"navi_sep",
-			"welfare_bodyTextHeader01",
-			"bodyTextHeader01_welfare",
-			"bodyTextHeader01",
-			"@extend .bodyTextBox01;",
-			"@extend .bodyTextHeader01",
-			"h4.bodyTextHeader01",
-			"service",
+			"mod_jobDetailJob",
+			"searchGoApplyBtnBgColor",
+			"a.goApply",
+			"jobDetailApplyBtnBase",
+			"jobDetailThBgColor",
+			"jobDetailTitleBgColor",
+			"jobSummaryBorderColor",
+			"deeece",
+			"FFFFFF",
+			"#deeece",
+			"bodyBgColor",
+			"pageTopBtnBgColor",
+			"footerBgColor",
+			"pageTopBtnBgColor",
+			"              <a href=\"<?php echo DEF_WEB_SUB_URL?>/oneday/\">",
+			"width: 960px;",
+			"border: 3px solid",
+			"3px",
+			"border: 3px solid",
+			"3px",
+			"border: 3px solid",
+			"quickSearchBtnColor",
+			"quickSearch1Box",
+			"searchBoxTabBgColor",
+			"bx-pagerIndicatorColor",
 			";\n",
-			"W960pxMA",
-			"h2",
-			"5px",
-			"h2",
-			"border-bottom: 3px $baseColor solid;",
-			"body",
-			"bodyText",
-			"W960pxMA",
-			"policy",
-			"body{",
-			"body",
-			"header",
-			"<p",
-			"p",
-			"bodyText",
-			"sec02BodyText",
-			"01",
-			"sec01",
-			"01",
-			"sec01BodyText",
-			"sec01",
-			"sec01Text",
-			"W960pxMgnAuto",
-			"mod_searchLocationBox_top",
-			"h1",
-			"site-title",
-			"sitetitle",
-			"boxBody",
-			"bx-pager",
-			".summary",
-			".summaryImgArea",
-			"a.goApplyJob",
-			"oubo10",
-			"jobone",
-			".Job_detail_title",
-			"mar_top",
-			"a.goApply",
-			"ApplyTel",
-			"a.goApply",
-			"#jobListArea .mod_jobDetailJob .applyTelBtns a.goApply",
-			"defInnerWidth",
-			"width:",
-			"width:3",
-			"width:",
-			"width:960",
-			"width:960px",
-			"D9D9D9",
-			".introduction_right",
-			"thBGColor",
-			"htBGColor",
-			"pageColorGreen",
-			"goSearchSelect",
-			"mod_SearchSp",
-			"pageColorGreen",
+			"jobDetailTitleBgColor",
+			"jobDetailTdBorderColor",
+			"jobDetailThBgColor",
+			"btnTelSubmitColor",
+			"icnJobItemColor",
+			"pageTopBtnTextColor",
+			"Bt1",
+			"%bannerBt1",
+			"%bannerBtn",
+			"%bannerBtnTextBody",
+			"bannerBt1TextBody",
+			"newFlagIconBgColor",
+			"searchBoxTabBgColor",
+			"wrap_full_QuickSearch",
+			"list_box_pc",
+			"wrap_full_QuickSearch",
+			"slide_body",
+			"anc_kojin_text",
+			"jobDetailThBgColor",
+			"jobSummaryBorderColor",
+			"width: 960px;",
+			"searchBoxTabBgColor",
+			"border: 2px solid $baseColor;",
+			"%boxFieldDl {\n//   //項目のまとめボックス\n//   // background-color: #FFFF00;\n//   box-sizing: border-box;\n//   padding: 0 20px 0 20px;\n//   // border-bottom: 1px solid #EEEEEE;\n// }",
+			"boxFieldDt",
+			"borderDottedBase",
 			"baseColor",
-			"borderColorGreen",
-			"l",
-			"borderColor",
-			"mainTextColor",
-			"bannerBtnBox_title",
-			"topmod1-area",
-			"menu",
-			"#right_slider",
-			".right_first_menu",
-			"defInnerWidth",
-			"$defWidthNarrow",
-			"defWidth",
-			"sec03HeaderImgBg",
-			"#sec03 img"
+			"jobDetailThBgColor",
+			"$btnTelSubmitColor",
+			"goDetailBtnBgColor",
+			"searchGoApplyBtnBgColor",
+			"jobDetailTitleBgColor",
+			"toppageAReset",
+			"jobSummaryBorderColor",
+			"borderBaseColor",
+			"#fef7e1",
+			" #ed7b01",
+			"searchDtColor",
+			"10rem",
+			"searchDtColor",
+			"quickSearchBtnColor",
+			"borderDottedBase",
+			"$searchBoxTabBgColor",
+			"gMenuBtnHoverBgColor",
+			"66",
+			"baseTextColor",
+			"pointarea",
+			"gMenuBgColor",
+			"E0F9D2",
+			"_latestJob_i",
+			"searchBtnColor",
+			";}",
+			"width: $defInnerWidth",
+			"img",
+			"latestJobColor",
+			"#5FBB58",
+			"#EC810F",
+			"#6CC25D",
+			"#cb1313",
+			"6CC25D",
+			"./images/",
+			"span",
+			"./images/",
+			"./images",
+			"review",
+			"factory",
+			"jobDetailCatchTextColor",
+			"telSubmitBtnColor",
+			"jobDetailThTextColor",
+			"jobDetailThBgColor",
+			"#E0F9D2",
+			"6CC25D",
+			"#6CC25D",
+			"//",
+			"#6CC25",
+			"#6CC25D;",
+			"baseCol",
+			"jobListDetailBtnColor",
+			"_latestJob",
+			"_latestJob_i.scss",
+			"269755",
+			"#269755",
+			"jobListSearchBtnColor",
+			"borderBaseColor",
+			"jobListSearchTextColor",
+			"searchBoxBg01BgColor",
+			"jobListSearchTitleColor",
+			"><",
+			"font-family : Meiryo ;\n          color : #ca0002 ;\n          font-size : 2.62rem ;\n          font-weight : 700 ;\n          line-height : 1.765 ;\n",
+			"topSlider",
+			"topSliderShadow",
+			"topSliderShadow_whole",
+			"./images/",
+			"<?php echo DEF_WEB_SUB_URL?>/images/",
+			"goDetailBtnBgColor",
+			"#181512",
+			"apply",
+			"anc_kojin_text",
+			"個人",
+			"footerCopyrightBgColor",
+			"btnTelSubmitColor",
+			"goDetailBtnBgColor"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -469,6 +718,29 @@
 		"regex": false,
 		"replace_history":
 		[
+			";\n",
+			"0",
+			"2カラム以上の時",
+			";\n",
+			"150px",
+			"\n        ",
+			"センチュリー21横浜エリア",
+			"        \n",
+			";\n",
+			"white",
+			"    //",
+			";\n",
+			"_recommendJob01",
+			"5",
+			"spImgData",
+			");",
+			";\n",
+			"\n      ",
+			"no_image.png\n",
+			"}\n",
+			"right",
+			"sec02BodyBox01",
+			"img"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -485,7 +757,7 @@
 				{
 					"buffer": 0,
 					"file": "test01.html",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 614,
@@ -495,13 +767,12 @@
 						"selection":
 						[
 							[
-								40,
-								40
+								614,
+								614
 							]
 						],
 						"settings":
 						{
-							"auto_complete": false,
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -509,15 +780,15 @@
 								{
 									"1":
 									[
-										54,
-										55
+										609,
+										613
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"Packages/BracketHighlighter/icons/tag.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -525,8 +796,8 @@
 								{
 									"1":
 									[
-										40,
-										41
+										57,
+										61
 									]
 								},
 								"unmatched":
@@ -535,61 +806,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"is_xml": false,
 							"origin_encoding": "ASCII",
@@ -609,7 +880,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -640,7 +911,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 96.0
+		"height": 106.0
 	},
 	"output.find_results":
 	{
@@ -650,7 +921,7 @@
 	"project": "test01.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -665,27 +936,31 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "a",
 		"selected_items":
 		[
 			[
+				"a",
+				"C:\\xampp\\htdocs\\tp\\allowtex\\allowtex.sublime-project"
+			],
+			[
 				"",
-				"C:\\xampp\\htdocs\\tp\\marunew\\marunew.sublime-project"
+				"C:\\xampp\\htdocs\\tp\\panttone\\panttone.sublime-project"
 			],
 			[
-				"maru",
-				"C:\\xampp\\htdocs\\tp\\marunew\\marunew.sublime-project"
+				"ac",
+				"C:\\xampp\\htdocs\\tp\\active-japan\\active-japan.sublime-project"
 			],
 			[
-				"ns",
-				"C:\\xampp\\htdocs\\tp\\nstec\\nstec.sublime-project"
+				"PC",
+				"C:\\xampp\\htdocs\\sc_2017SummerPC\\sc_2017SummerPC.sublime-project"
 			],
 			[
-				"s",
-				"C:\\xampp\\htdocs\\tp\\spb-job\\spb-job.sublime-project"
+				"j",
+				"C:\\xampp\\htdocs\\tp\\trattoriaforza\\trattoriaforza.sublime-project"
 			]
 		],
-		"width": 696.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -704,7 +979,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 235.0,
+	"side_bar_width": 314.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
