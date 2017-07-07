@@ -1,0 +1,712 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pc",
+				"pc_img_serviceSec02Img01.jpg"
+			],
+			[
+				"p",
+				"pc_img_serviceSec02Bg01.png\tw:960 h:1554"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"table",
+				"table\tTag"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pc_img",
+				"pc_img_footer_ind_01.png\tw:13 h:14"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"o",
+				"content-box"
+			],
+			[
+				"ta",
+				"table-cell"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test01.html",
+			"settings":
+			{
+				"buffer_size": 614,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"cont",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 379.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"japanize",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/react/react_doc/test01",
+		"/C/xampp/htdocs/react/react_doc/test01/dest",
+		"/C/xampp/htdocs/react/react_doc/test01/src"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/react/react_doc/test01/src/tutorial01.jsx",
+		"/C/Users/asono/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/react/react_doc/test01/dest/tutorial01.js",
+		"/C/xampp/htdocs/tp/spb-job/sp/css/addsp_style.css",
+		"/C/xampp/htdocs/tp/spb-job/sp/_scss/addsp_style.scss",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/tp_corpWebregist.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/tp_corpWebregistDetail.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/tp_corpFullImg.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/spb-job/template/footer.php",
+		"/C/xampp/htdocs/tp/spb-job/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpHakenPage.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist_confirm/template/tp_corpWebregistConfirmDetail.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist_thanks/template/tp_corpWebregistThanks.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist_confirm/template/tp_corpWebregistConfirm.php",
+		"/C/xampp/htdocs/tp/spb-job/webregist_thanks/template/tp_corpWebregistThanks.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist_confirm/template/mod_title.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist_thanks/template/mod_title.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/webregist/template/mod_title.php",
+		"/C/xampp/htdocs/tp/spb-job/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/spb-job/webregist/template/tp_corpWebregist.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/template/footer.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpServicePage.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpWelfarePage.php",
+		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpServicePage.php",
+		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpWelfarePage.php",
+		"/C/xampp/htdocs/tp/spb-job/css/addpc_style.css",
+		"/C/xampp/htdocs/tp/spb-job/js/tenichi.plus.script.js",
+		"/C/xampp/htdocs/tp/spb-job/sp/js/tenichi.plus.script.js",
+		"/C/xampp/htdocs/tp/spb-job/sp/top/template/tp_corpLinkBannerBtnBox01.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/config/custom_config/top/latestJobInfo.php",
+		"/C/xampp/htdocs/tp/spb-job/css/tenichi.plus.css",
+		"/C/xampp/htdocs/tp/spb-job/webregist_confirm/template/tp_corpWebregistConfirmDetail.php",
+		"/C/xampp/htdocs/tp/spb-job/webregist_confirm/template/tp_corpWebregistConfirm.php",
+		"/C/xampp/htdocs/tp/spb-job/webregist/template/tp_corpWebregistDetail.php",
+		"/C/xampp/htdocs/tp/spb-job/webregist/template/tp_corpFullImg.php",
+		"/C/xampp/htdocs/tp/spb-job/webregist/template/mod_title.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpOfficePage.php",
+		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpOfficePage.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/content/template/tp_corpPolicyPage.php",
+		"/C/xampp/htdocs/tp/spb-job/content/template/tp_corpPolicyPage.php",
+		"/C/xampp/htdocs/tp/delstuff/content/template/tp_corpStartPage.php",
+		"/C/xampp/htdocs/tp/1049/content/template/tp_corpWorkingPage.php",
+		"/C/xampp/htdocs/tp/spb-job/search/template/tp_corpSearch.php",
+		"/C/xampp/htdocs/tp/spb-job/top/template/tp_corpImgSlider.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/config.rb",
+		"/C/xampp/htdocs/tp/spb-job/sp/apply_thanks/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/top/template/tp_corpImgSlider.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/apply/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/spb-job/sp/apply_confirm/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/1049/sp/_scss/addsp_style.scss",
+		"/C/xampp/htdocs/tp/1049/template/header.php",
+		"/C/xampp/htdocs/tp/1049/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/content/template/tp_corpWorkingPage.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/css/addsp_style.css",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/_scss/addsp_style.scss",
+		"/C/Users/asono/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/js/tenichi.plus.sp.js",
+		"/C/xampp/htdocs/tp/ichiyamamart/js/tenichi.plus.script.js",
+		"/C/xampp/htdocs/tp/ichiyamamart/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/ichiyamamart/content/template/tp_corpWorkingPage.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/css/addpc_style.css",
+		"/C/xampp/htdocs/tp/ichiyamamart/config/custom_config/search/latestJobInfo.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/apply/template/tp_corpApplyModJob.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/apply_thanks/template/tp_corpApplyThanks.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/apply_confirm/template/tp_corpApplyConfirm.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/apply/template/tp_corpApply.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/apply/template/tp_corpApplyModJob.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/css/tenichi.plus.css",
+		"/C/xampp/htdocs/tp/delstuff/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/ichiyamamart/template/header.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/header.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/template/footer.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/footer.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/search_select/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpLatestJob01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/_scss/addpc_style.scss",
+		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/search/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/job/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/search/template/tp_corpSearchSp.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/job/template/tp_corpJobModJob02.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/job/template/tp_corpJob.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpTop.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpLinkBannerBtnBox01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpRecommendJob01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpSearchBoxTab01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/template/_footer.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/top/template/tp_corpImgSlider.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/sp/config.rb",
+		"/C/xampp/htdocs/tp/ichiyamamart/job/template/tp_corpJobModJob02.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/job/template/tp_corpJob.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/search/template/tp_corpSearch.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpSearchBoxTab01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpTop.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/search/template/tp_corpSearchBoxTab01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpRecommendJob01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpLatestJob01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/search/template/_tp_corpLatestJob01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpLinkBannerBtnBox01.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/top/template/tp_corpImgSlider.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/template/mod_headerNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/job/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/search/template/tp_corpHeaderNav.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/config.rb",
+		"/C/xampp/htdocs/tp/ichiyamamart/template/mod_wrapStart.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/template/mod_wrapFullStart.php",
+		"/C/xampp/htdocs/tp/ichiyamamart/css/addpcBase_style.css",
+		"/C/xampp/htdocs/tp/test_proj/_scss/test.scss",
+		"/C/xampp/htdocs/tp/test_proj/_scss/test.css",
+		"/C/xampp/htdocs/tp/ichiyamamart/css/test.css",
+		"/C/xampp/htdocs/tp/ichiyamamart/_scss/test.scss",
+		"/C/xampp/htdocs/tp/ichiyamamart/compile_production.bat",
+		"/C/xampp/htdocs/tp/ichiyamamart/css/add_pc_style_00.css",
+		"/C/xampp/htdocs/tp/ichiyamamart/_scss/config.rb",
+		"/C/xampp/htdocs/tp/ichiyamamart/css/add_pc_style.css",
+		"/C/xampp/htdocs/tp/ichiyamamart/css/add_pc_style_contentsPage.css",
+		"/C/xampp/htdocs/tp/docomo-cs-tokai/sp/content/template/tp_corpOfficePage.php",
+		"/C/xampp/htdocs/tp/docomo-cs-tokai/top/template/tp_corpImgSlider.php",
+		"/C/xampp/htdocs/tp/docomo-cs-tokai/sp/top/template/tp_corpSearchLocationBox01.php",
+		"/C/xampp/htdocs/tp/docomo-cs-tokai/sp/css/addsp_style.css",
+		"/C/xampp/htdocs/tp/docomo-cs-tokai/css/add_style.css",
+		"/C/xampp/htdocs/tp/docomo-cs-tokai/search/template/tp_corpSearchBoxTab01.php",
+		"/C/xampp/htdocs/tp/docomo-cs-tokai/top/template/tp_corpSearchLocationBox01.php",
+		"/C/xampp/htdocs/tp/wowcom/css/add_pc_style.css",
+		"/C/xampp/htdocs/tp/wowcom/sp/css/add_sp_style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\tp\\spb-job\\css",
+			"<open folders>",
+			"C:\\xampp\\htdocs\\tp\\ichiyamamart\\sp",
+			"C:\\xampp\\htdocs\\tp\\ichiyamamart\\css",
+			"<open files>",
+			"C:\\xampp\\htdocs\\tp\\ichiyamamart\\sp\\template",
+			"C:\\xampp\\htdocs\\tp\\ichiyamamart\\sp\\top",
+			"C:\\xampp\\htdocs\\tp\\ichiyamamart"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hr_webregist",
+			"44",
+			"input3",
+			"clearfix",
+			"dd",
+			"radio_first",
+			"th_bikou",
+			"pc_img_hakenSec03Point03Bg.png",
+			"dec",
+			"width: 960px",
+			"#jobListArea",
+			"customheader2slide",
+			"welfare",
+			"Welfare",
+			"welfare",
+			"left: 530px;",
+			"defInnerW",
+			"W100per",
+			"defInnerW",
+			"W100per",
+			"W960pxMA",
+			"pink",
+			"HeaderText",
+			"sec03Point01HeaderBox",
+			".sec03Point01HeaderBox",
+			".sec03Point02HeaderBox",
+			"sec03Point01HeaderBox",
+			".sec03Point01ImgBox",
+			"assortColor",
+			"318px",
+			"jobone",
+			"horizontalTabBody",
+			"#jobListArea",
+			".searchSpTitle",
+			"sp_LRMrgn1px",
+			"*/?>",
+			"<?php /*",
+			"<?php /*</a>",
+			"<?php /*",
+			"last",
+			"bx-w",
+			"bx",
+			"wrap_full_ImgSlider",
+			"dec1",
+			"regist_group_btns",
+			"fullWidth_area",
+			"fullWidth_area mb40",
+			"530px",
+			"140px",
+			"welfarePageH4Color",
+			"navi_sep",
+			"welfare_bodyTextHeader01",
+			"bodyTextHeader01_welfare",
+			"bodyTextHeader01",
+			"@extend .bodyTextBox01;",
+			"@extend .bodyTextHeader01",
+			"h4.bodyTextHeader01",
+			"service",
+			";\n",
+			"W960pxMA",
+			"h2",
+			"5px",
+			"h2",
+			"border-bottom: 3px $baseColor solid;",
+			"body",
+			"bodyText",
+			"W960pxMA",
+			"policy",
+			"body{",
+			"body",
+			"header",
+			"<p",
+			"p",
+			"bodyText",
+			"sec02BodyText",
+			"01",
+			"sec01",
+			"01",
+			"sec01BodyText",
+			"sec01",
+			"sec01Text",
+			"W960pxMgnAuto",
+			"mod_searchLocationBox_top",
+			"h1",
+			"site-title",
+			"sitetitle",
+			"boxBody",
+			"bx-pager",
+			".summary",
+			".summaryImgArea",
+			"a.goApplyJob",
+			"oubo10",
+			"jobone",
+			".Job_detail_title",
+			"mar_top",
+			"a.goApply",
+			"ApplyTel",
+			"a.goApply",
+			"#jobListArea .mod_jobDetailJob .applyTelBtns a.goApply",
+			"defInnerWidth",
+			"width:",
+			"width:3",
+			"width:",
+			"width:960",
+			"width:960px",
+			"D9D9D9",
+			".introduction_right",
+			"thBGColor",
+			"htBGColor",
+			"pageColorGreen",
+			"goSearchSelect",
+			"mod_SearchSp",
+			"pageColorGreen",
+			"baseColor",
+			"borderColorGreen",
+			"l",
+			"borderColor",
+			"mainTextColor",
+			"bannerBtnBox_title",
+			"topmod1-area",
+			"menu",
+			"#right_slider",
+			".right_first_menu",
+			"defInnerWidth",
+			"$defWidthNarrow",
+			"defWidth",
+			"sec03HeaderImgBg",
+			"#sec03 img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test01.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										54,
+										55
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										40,
+										41
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test01.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\tp\\marunew\\marunew.sublime-project"
+			],
+			[
+				"maru",
+				"C:\\xampp\\htdocs\\tp\\marunew\\marunew.sublime-project"
+			],
+			[
+				"ns",
+				"C:\\xampp\\htdocs\\tp\\nstec\\nstec.sublime-project"
+			],
+			[
+				"s",
+				"C:\\xampp\\htdocs\\tp\\spb-job\\spb-job.sublime-project"
+			]
+		],
+		"width": 696.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
